@@ -396,7 +396,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
-				DEVELOPMENT_TEAM = E8YSTT4EW3;
+				DEVELOPMENT_TEAM = BXL73SAJUU;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -408,9 +408,9 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.codemagic.demo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.harman.mcptt;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "code magic-demo-poduction";
+				PROVISIONING_PROFILE_SPECIFIER = InHouseProvisioningWithVOIPEntitlement;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
